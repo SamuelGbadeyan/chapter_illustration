@@ -1,8 +1,6 @@
 body{background-color: white;}
-header {
-<<<<<<< HEAD
-	background-image: url(../images/banner.jpg);
-=======
+
+
 	/*background-image: url(../images/banner1.jpg);
 >>>>>>> refs/remotes/origin/master
 	width: 100%;
@@ -30,15 +28,14 @@ body {
   background-attachment: fixed;
   background-size: cover
 }
-<<<<<<< HEAD
-=======
+
 
 .c11 {
   background-image:url(../images/banner1.jpg);
 }
 
 
->>>>>>> refs/remotes/origin/master
+
 .c1 {
   background-image:url(../images/design2.jpg);
 }
@@ -48,9 +45,7 @@ body {
 .c3 {
   background-image:url(../images/design5.jpg);
 }
-<<<<<<< HEAD
-}
-=======
+
 
 .c4 {
   background-image:url(../images/design6.jpg);
@@ -74,7 +69,3 @@ body {
   background-image:url(../images/design12.jpg);
 }
 
-
-
-
->>>>>>> refs/remotes/origin/master
