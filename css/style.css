@@ -14,3 +14,17 @@ h1 {
 	font-family: 'Dancing Script', cursive;
 }
 img	{width: 100%}
+
+.parallax {
+    /* The image used */
+    background-image: url(../images/banner.jpg);
+
+    /* Set a specific height */
+    min-height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
